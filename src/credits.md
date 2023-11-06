@@ -6,6 +6,10 @@ desc: Credit where credit is due
 
 {% image "./src/static/img/thanks.webp", "justify-center w-2/3 m-auto rounded-lg my-5", "interesting dog", "(min-width: 30em) 50vw, 100vw" %}
 
+This course website was built by modifying the Eleventy starter project ['TEATime'](https://github.com/alanmosely/teatime-starter).  The original credits are below.
+
+---
+
 This starter project was made easier thanks to the following work by others:
 
 ## 11ty

@@ -1,19 +1,22 @@
 {
-  "title": "TEAtime Starter",
-  "description": "A TEAtime starter project",
-  "author": "Alan Mosely",
+  "title": "HIST 4805A (F/W)",
+  "description": "Artificial Intelligence in (and) History",
+  "author": "Shawn Graham",
   "image": "/img/logo.png",
   "language": "en",
-  "repo": "https://github.com/alanmosely/teatime-starter",
+  "repo": "https://github.com/shawngraham/4805-AI",
+  "schedule": "/schedule",
+  "contact": "/contact",
+  "tech": "/tech",
   "social": [
     {
       "title": "GitHub",
-      "url": "https://github.com/alanmosely",
+      "url": "https://github.com/shawngraham",
       "image": "/img/github.svg"
     },
     {
-      "title": "Medium",
-      "url": "https://medium.com/@alan.mosely",
+      "title": "Mastodon",
+      "url": "https://scholar.social/@electricarchaeo",
       "image": "/img/medium.svg"
     }
   ]
