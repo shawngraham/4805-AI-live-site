@@ -1,9 +1,9 @@
 ---
 layout: page.njk
-title: Schedule
-desc: What we'll do when
+title: Contact
+desc: Finding Dr. Graham
 ---
 
-{% image "./src/static/img/dog.webp", "justify-center w-2/3 m-auto rounded-lg my-5", "interesting dog", "(min-width: 30em) 50vw, 100vw" %}
+{% image "./src/static/img/human-informatics-unit.webp", "justify-center w-2/3 m-auto rounded-lg my-5", "human-informatics-unit", "(min-width: 30em) 50vw, 100vw" %}
 
-The schedule will go here.
+Details here about how to contact Dr. Graham

@@ -1,9 +1,9 @@
 ---
 layout: page.njk
-title: Schedule
-desc: What we'll do when
+title: Policies
+desc: Carleton has many and several policies
 ---
 
-{% image "./src/static/img/dog.webp", "justify-center w-2/3 m-auto rounded-lg my-5", "interesting dog", "(min-width: 30em) 50vw, 100vw" %}
+{% image "./src/static/img/robot1.webp", "justify-center w-2/3 m-auto rounded-lg my-5", "robot1", "(min-width: 30em) 50vw, 100vw" %}
 
-The schedule will go here.
+The policies will go here.
