@@ -12,7 +12,7 @@ https://teatime-starter.netlify.app
 
 If you have a [Netlify](https://netlify.com) account and are logged in, you can deploy this site in under a minute:
 
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/alanmosely/teatime-starter"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/shawngraham/4805-AI"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
 
 ## Ingredients
 
